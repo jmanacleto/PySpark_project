@@ -1,6 +1,11 @@
 Documentação do Código:
 Inicialização da Sessão Spark:
 
+## Pipeline de Limpeza e Transformação para Aplicações de IA com PySpark SQL:
+Crie um pipeline que lê dados brutos de uma fonte (por exemplo, CSV, banco de dados) usando PySpark SQL.
+Realize limpeza, transformações e agregações nos dados.
+Prepare os dados para serem usados em modelos de Machine Learning ou outras aplicações de IA.
+
 SparkSession.builder: Inicializa a sessão Spark para interação com o ambiente de execução do Spark.
 Definição do Esquema dos Dados:
 
