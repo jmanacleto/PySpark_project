@@ -1,7 +1,7 @@
 ## Pipeline de Limpeza e Transformação para Aplicações de IA com PySpark SQL:
 Criando um pipeline que lê dados brutos de uma fonte (por exemplo, CSV, banco de dados) usando PySpark SQL.
-Realize limpeza, transformações e agregações nos dados.
-Prepare os dados para serem usados em modelos de Machine Learning ou outras aplicações de IA.
+Realizando limpeza, transformações e agregações nos dados.
+Preparando os dados para serem usados em modelos de Machine Learning ou outras aplicações de IA.
 
 ## Documentação do Código:
 ## Inicialização da Sessão Spark:
