@@ -1,4 +1,4 @@
-Documentação do Código:
+## Documentação do Código:
 Inicialização da Sessão Spark:
 
 ## Pipeline de Limpeza e Transformação para Aplicações de IA com PySpark SQL:
